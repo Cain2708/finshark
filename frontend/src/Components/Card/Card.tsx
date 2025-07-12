@@ -1,4 +1,4 @@
-import React, { SyntheticEvent } from "react";
+import React, { SyntheticEvent, JSX } from "react";
 import { Link } from "react-router-dom";
 import "./Card.css";
 import { CompanySearch } from "../../company";
